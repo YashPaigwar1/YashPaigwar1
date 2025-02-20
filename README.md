@@ -11,7 +11,7 @@
 <p align="center"> -React, Java, Spring Boot, REST APIs </p>
 
 ### <p align="center"> 📫 How to reach me </p>
-<p align="center"> 📧 Email: [work.yashpaigwar1@gmail.com]</p>
+<p align="center"> 📧 Email: work.yashpaigwar1@gmail.com </p>
 <p align="center"> 📱 Phone: 9359931749  </p> 
 
 ### <p align="center"> 👨‍💻 All of my projects are available at  </p>
