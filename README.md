@@ -11,9 +11,6 @@
 - **Full Stack Web Development Projects**  
 - **Open-Source Contributions**
 
-### 🌱 I’m currently learning  
-- ** AWS and Angular **  
-
 ### 💬 Ask me about  
 - **React, Java, Spring Boot, REST APIs**
 
@@ -24,14 +21,8 @@
 ### 👨‍💻 All of my projects are available at  
 - **[Github](https://github.com/YashPaigwar1)**
 
-### 📝 I regularly write articles on  
-- **[My Tech Blog](#)** (Coming soon!)
-
-### 📄 Know about my experiences  
-- **[My Resume](#)** (Coming soon)
-
 ---
-
+---
 ## 🛠 Tech Stack:
 
 ### 💻 Programming Languages:  
