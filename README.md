@@ -3,9 +3,7 @@
 
 ---
 
-### 🔭 I’m currently working on  
-- **[EduTrack API](https://github.com/YashPaigwar1/Edutrack)**  
-  A Spring Boot API for managing student attendance with CRUD operations and role-based access control.
+
 
 ### 👯 I’m looking to collaborate on  
 - **Full Stack Web Development Projects**  
